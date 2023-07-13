@@ -1,1 +1,6 @@
-console.log("lio")
+console.log("lio");
+
+
+var jack = "lio"
+
+console.log(jack);
